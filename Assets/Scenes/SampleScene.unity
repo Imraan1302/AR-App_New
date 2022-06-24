@@ -630,10 +630,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bee7873b9bbbc10419555b4ede47368f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  InitialChoicesObject: {fileID: 0}
-  SelfCardObject: {fileID: 0}
-  SituationCardObject: {fileID: 0}
-  ChallengeCardObject: {fileID: 0}
+  InitialChoicesObject: {fileID: 1023037225}
+  SelfCardObject: {fileID: 1816349029}
+  SituationCardObject: {fileID: 1031877128}
+  ChallengeCardObject: {fileID: 1264241488}
 --- !u!1 &449676182
 GameObject:
   m_ObjectHideFlags: 0
