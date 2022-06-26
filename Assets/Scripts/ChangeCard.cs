@@ -8,6 +8,12 @@ public class ChangeCard : MonoBehaviour
     public GameObject SelfCardObject;
     public GameObject SituationCardObject;
     public GameObject ChallengeCardObject;
+    public GameObject ReadButton;
+    public GameObject ProceedButton;
+    public GameObject TitleText;
+    public GameObject SelfText;
+    public GameObject SituationText;
+    public GameObject ChallengeText;
     void Start()
     {
         
